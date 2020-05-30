@@ -9,6 +9,9 @@ logs
 **/*.backup.*
 **/*.back.*
 
+dist
+.cache
+.env
 node_modules
 
 # End of https://www.gitignore.io/api/react
